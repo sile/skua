@@ -1,3 +1,5 @@
+#![allow(deprecated)]
+
 use trackable::error::{Failed, TrackableError};
 
 /// This crate specific `Error` type.
